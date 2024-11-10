@@ -45,7 +45,7 @@ export default function TextForm(props) {
       <button className="btn btn-secondary" onClick={handleUpClick}>
         Convert to Uppercase
       </button>
-      <button className="btn btn-warning" onClick={handled}>
+      <button className="btn btn-primary mx-5" onClick={handled}>
         Generate QR
       </button>
 
