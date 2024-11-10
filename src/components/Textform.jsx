@@ -55,6 +55,9 @@ export default function TextForm(props) {
         WORD:- {text.split(" ").length} LETTER:- {text.length}
       </p>
       {qrCodeUrl && <img src={qrCodeUrl} alt="QR Code" />}
+       <p>
+    <footer class="card-header my-150 mx-2">Devoloped By @Aishik</footer>
+  </p>
     </div>
   );
 }
