@@ -56,7 +56,7 @@ export default function TextForm(props) {
       </p>
       {qrCodeUrl && <img src={qrCodeUrl} alt="QR Code" />}
        <p>
-    <footer class="card-header my-29 mx-0 me-auto">Devoloped By @Aishik</footer>
+    <footer class="card-header my-29 mx-0 me-auto badge text-bg-secondary">Devoloped By @Aishik</footer>
   </p>
     </div>
   );
