@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div className="container my-14">
-        <Textform heading="Entertextform" />
+        <Textform heading="Insert Text Here" />
       </div>
     </>
   );
